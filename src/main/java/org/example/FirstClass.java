@@ -5,10 +5,11 @@ import java.util.Scanner;
 
 
 public class FirstClass {
-    /*
-    In this class we have the main logic to colect data from the user
-    throw Scanner  function.
+    /**
+    * In this class we have the main logic to collect data from the user
+    * throw Scanner  function.
      */
+
     Scanner scanner;
 
 
